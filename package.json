@@ -23,9 +23,14 @@
   "homepage": "https://github.com/aleksei24/practice-parcel#readme",
   "dependencies": {
     "babel-eslint": "^10.1.0",
+    "date-fns": "^2.21.3",
     "eslint": "^7.26.0",
     "eslint-plugin-react": "^7.23.2",
+    "format-number": "^3.0.0",
     "parcel-bundler": "^1.12.5",
-    "prettier": "^2.3.0"
+    "prettier": "^2.3.0",
+    "react": "^17.0.2",
+    "react-async-hook": "^3.6.2",
+    "react-dom": "^17.0.2"
   }
 }
